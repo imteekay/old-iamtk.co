@@ -1,5 +1,7 @@
 # iamtk.co
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ## Create a bug report: [click here](https://github.com/imteekay/iamtk.co/issues/new?assignees=&labels=&template=bug_report.md&title=)
 
   - Found a bug on the website
@@ -16,3 +18,7 @@
   - New features
   - Infrastructure work
   - DX/webperf improvements
+
+## License
+
+[MIT](/LICENSE) © [TK](https://iamtk.co)
