@@ -13,6 +13,10 @@
   - Any feature you want on the website
   - Any blog post you want me to write about
 
+## Ask me Anything: [click here](https://github.com/imteekay/iamtk.co/issues/new?assignees=&labels=ama&template=ama.md&title=)
+
+  - Ask me about anything
+
 ## iamtk.co roadmap: [click here](https://github.com/users/imteekay/projects/2)
 
   - New features
